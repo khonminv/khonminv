@@ -7,7 +7,7 @@
 - 원활한 커뮤니케이션을 통해 협업의 시너지를 높이고,더 나은 결과를 위해 노력합니다.
 - 사용자 경험을 고려하여 UI/UX를 개선하고, 직관적인 디자인으로 접근성을 향상시킵니다.
 
-[e-mail](mailto:oki6479@naver.com)  ghals1447@naver.com
+[e-mail](mailto:ghals1447@naver.com)  ghals1447@naver.com
 
 [phone call](01040866479)  010-4906-5924
 
