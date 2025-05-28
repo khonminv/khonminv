@@ -168,18 +168,18 @@ API, Mobile Navigation, PWA
 
 [https://github.com/khonminv/portfolio/tree/main/o'kichen/start](https://khonminv.github.io/portfolio/o'kichen/start/)
 
-### wylie
+### bonochat
 
-- CSS와 Grid 레이아웃을 활용하여 다양한 화면 크기에 최적화된 UI를 제공
-- 반응형 웹으로 모바일 메뉴 및 페이지 내 네비게이션 구현
-- GSAP을 활용한 스크롤 애니메이션 및 UI 요소 인터랙션 구현
-- scrollTrigger() 를 통해 위치기반 시각적 효과 제공
+- App Router 구조를 활용하여 페이지 간 라우팅을 효율적으로 구현
+- Next.js + TypeScript 기반의 프론트엔드 프로젝트 설계 및 구현
+- Socket.IO 를 통한 실시간 통신 구현
+- Axios를 활용한 비동기적 데이터 처리
 
 ---
 
-HTML5, JQuery, CSS3
+HTML5, Javascript, CSS3, MongoDB, Node.js , Next, Axios, Websocket ,Typescript
 
-[https://github.com/khonminv/portfolio/tree/main/wylie/start](https://github.com/khonminv/portfolio/tree/main/wylie/start)
+[https://github.com/khonminv/portfolio/tree/main/chatting-app](https://github.com/khonminv/portfolio/tree/main/chatting-app)
 
 ---
 
