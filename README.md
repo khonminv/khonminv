@@ -56,10 +56,10 @@ PHP
 </aside>
 
 <aside>
-styled componets
+Next
 
-- props 기반 반응형 레이아웃 구현
-- 유지보수성과 확장성을 고려한 CSS-in-JS 방식 UI 설계
+- App Router 구조를 활용하여 페이지 간 라우팅을 효율적으로 구현
+- 서버 컴포넌트와 클라이언트 컴포넌트를 적절히 분리하여 성능을 최적화
 </aside>
 
 <aside>
@@ -179,7 +179,7 @@ API, Mobile Navigation, PWA
 
 HTML5, Javascript, CSS3, MongoDB, Node.js , Next, Axios, Websocket ,Typescript
 
-[https://github.com/khonminv/portfolio/tree/main/chatting-app](https://github.com/khonminv/portfolio/tree/main/chatting-app)
+[https://github.com/khonminv/portfolio/tree/main/bonochat](https://github.com/khonminv/portfolio/tree/main/bonochat)
 
 ---
 
